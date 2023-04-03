@@ -1,13 +1,14 @@
-## Running React on Repl.it
+Hey everyone! Check out my second deployment of a full stack decentralized application and Ethereum Smart Contract for: Crowdfunding, Escrow Services, Charity Donations, Employee Payroll, Staking Rewards, and Real Estate Investing. 
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+I've also written a two-part article for a deeper run-through of the code and a detailed explanation of my smart contract and scripts, how I incorporated price feed oracles, optimized for gas, and leveraged unit/staging tests. 
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+1. https://medium.com/@sheth.tanvi18/decentralized-funding-a3de5734e24a
+2. https://medium.com/@sheth.tanvi18/functional-and-robust-smart-contracts-unit-and-stage-tests-oracles-and-gas-optimization-2861061c862
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+Be sure to check out my video, where I dive into all the components of my backend, run through a demo of my frontend, and explain concepts unique to Web3 along the way. This time, I prioritize real-world contexts and explore advanced blockchain tools and frameworks to build something that makes sense for a user and developer to switch to, now that I have the foundation to do so.
+https://youtu.be/qUBCaUbBhJc
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+
+
+
